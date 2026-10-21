@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "session-info2",
+  "versions": [
+    {
+      "commit": "528efcdc76d8064e97eef60c34b858ea37fb8307",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:38:46.326250+00:00"
+    }
+  ]
+}
